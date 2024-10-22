@@ -230,7 +230,7 @@ export default function Home() {
               <h2 className="text-gray-400 text-2xl font-bold">Education</h2>
               <div className="bg-white shadow-md rounded-lg p-4 mt-4">
                 <h3 className="text-custom4 text-xl font-semibold">
-                  Data Science, Univesity of California, Berkeley
+                  Data Science, University of California, Berkeley
                 </h3>
                 <p className="text-custom4 text-right">2024</p>
                 <p className="text-custom4 mt-2">
